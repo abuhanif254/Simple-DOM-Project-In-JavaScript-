@@ -23,17 +23,17 @@
     cursor: pointer;
 }
 #menu li.red{
-    background: #ff7675;
+    background: red;
 }
 
 #menu li.green{
-    background: #55efc4;
+    background: green;
 }
 
 #menu li.blue {
-    background: #74b9ff;
+    background: blue;
 }
 
 #menu li.pink{
-    background: #fd79a8;
+    background: pink;
 }
